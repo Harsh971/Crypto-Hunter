@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://crypto-hunter.netlify.app/">
-    <img alt="HackerRank" height="100%" width="100%"  src="https://github.com/Harsh971/Crypto-Hunter/blob/main/First_Page.jpg">
+    <img alt="Crypto-Hunter-Home-Page" height="100%" width="100%"  src="https://github.com/Harsh971/Crypto-Hunter/blob/main/First_Page.jpg">
   </a>
   Click on the Image above to Visit the Project
 </p>
